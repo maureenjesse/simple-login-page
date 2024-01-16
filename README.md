@@ -1,2 +1,2 @@
-# simple-login-page
+# simple clothing landing page
 my first code
